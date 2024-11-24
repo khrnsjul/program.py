@@ -1,0 +1,2 @@
+# program.py
+program sederhana
